@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Have a Question?
+    url: https://github.com/orgs/trans-stat/discussions/new?category=q-a
+    about: Open a new Q&A discussion

@@ -1,0 +1,63 @@
+name: Business Request
+description: A request for a statement of work from a stakeholder or external user/entity
+title: 'sow: add [what] to/in [where]'
+labels: 'status : need-investigation'
+body:
+- type: markdown
+  attributes:
+    value: "# Statement of Work Request"
+- type: textarea
+  id: sow-description
+  attributes:
+    label: Executive Summary
+    description: A detailed description of the challenge or opportunity for the organization.
+  validations:
+    required: true
+- type: textarea
+  id: sow-impact
+  attributes:
+    label: Impact
+    description: A value statement of impact across the organization.
+  validations:
+    required: true
+- type: input
+  id: sow-requestor-name
+  attributes:
+    label: Requestor Name
+    placeholder: first last
+  validations:
+    required: true
+- type: input
+  id: sow-requestor-email
+  attributes:
+    label: Requestor Email
+    placeholder: email@example.com
+  validations:
+    required: true
+- type: input
+  id: sow-requestor-phone
+  attributes:
+    label: Requestor Phone
+    placeholder: phone number
+  validations:
+    required: true
+- type: input
+  id: sow-requested-by-date
+  attributes:
+    label: Requested Date of Completion
+    description: This date is not a commitment of completion but will be considered.
+    placeholder: date
+  validations:
+    required: true
+- type: input
+  id: sow-support-ticket-number
+  attributes:
+    label: Support Ticket Reference #
+    placeholder: ticket #
+  validations:
+    required: true
+- type: textarea
+  id: sow-additional-info
+  attributes:
+    label: Additional Information
+    description: Any additional information needed for this request.
