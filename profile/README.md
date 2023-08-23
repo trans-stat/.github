@@ -1,5 +1,3 @@
-# Welcome to TAS
-
 ## About us
 TAS provides consulting services specializing in building modern technologies into software solutions licensed as Software as a Service.
 
