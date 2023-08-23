@@ -1,5 +1,8 @@
 ## About us
-TAS provides consulting services specializing in building modern technologies into software solutions licensed as Software as a Service.
+TAS provides managed services consulting agency specializing in modern web technologies built with cutting-edge methodologies, and delivered in Software as a Service.
+
+## Our team
+
 
 ## Contact us
 
