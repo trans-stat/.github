@@ -5,6 +5,12 @@
 TAS provides managed services consulting specializing in modern web technologies built with cutting-edge methodologies and delivered in Software as a Service.
 
 ## Our team
+Our people enable our success. We strive every day to build a work culture that empowers one another allowing each of us to do our best. We believe in coaching and mentoring young adults through internships, part-time opportunities, and beyond. We are avid Open Source Contributors and Adopters who hire from GitHub communities to bring unparalleled experience and expertise. We don't require college graduates or advanced degrees. We simply require mutual respect, integrity, and authenticity with a passion for learning and making the world a better place.
+
+## Our experience
+We have experience designing, developing, and delivering on projects of all sizes from startup ideation projects all the way to Big Tech multi-million dollar initiatives. We collaborate on WC3 Working Groups to bring greater experiences and functionality into modern Web Browsers and then adopt these features in [Microsoft FAST](https://github.com/microsoft/fast), [Adaptive Web Components](https://github.com/Adaptive-Web-Community/Adaptive-Web-Components), and TAS Security Packages to maintain modern technology stacks in our solutions. We go beyond any other company leveraging [Quantum Security](https://www.qusecure.com), [biometric and spacial multi-factor authentication](https://www.ivalt.com), as well as progressively enhancing your [security and privacy](https://github.com/trans-stat/tas-security) stance through our custom UI/UX Patterns available for adoption in Open Source.
+
+We are unmatched.
 
 
 ## Contact us
