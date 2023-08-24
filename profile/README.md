@@ -1,3 +1,6 @@
+
+![](https://sso.trans-stat.com/auth/resources/ju3f6/login/login/images/NextMed.png)
+
 ## About us
 TAS provides managed services consulting specializing in modern web technologies built with cutting-edge methodologies and delivered in Software as a Service.
 
