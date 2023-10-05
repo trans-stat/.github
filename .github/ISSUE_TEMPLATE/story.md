@@ -9,6 +9,7 @@ title: '[adds/updates/removes]: [what] to/from [where]'
 ## Tasks
 - [ ] Peer review code - _should be done by another engineer in addition to the normal PR review process_
 - [ ] Product review - _should be done by product manager_
+- [ ] End-to-End Testing - _make sure things work as expected and no unexptected behaviors have been introduced_
 ```
 <!-- Provide any additional tasks to the list above to break this issue down further -->
 
