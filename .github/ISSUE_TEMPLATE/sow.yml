@@ -1,7 +1,6 @@
-name: Business Request
+name: Statement of Work
 description: A request for a statement of work from a stakeholder or external user/entity
-title: 'sow: add [what] to/in [where]'
-labels: 'status : need-investigation'
+title: '[adds/updates/removes]: [what] to/from [where]'
 body:
 - type: markdown
   attributes:
