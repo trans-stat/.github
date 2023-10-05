@@ -1,7 +1,7 @@
 ---
 name: Story
-about: A single work item, usually a part of a larger Epic.
-title: '[adds/updates/fixes]: [what] to/in [where]'
+about: A single work item and is a part of a larger Epic.
+title: '[adds/updates/removes]: [what] to/from [where]'
 ---
 <!-- Provide a general summary of the issue in the title above -->
 
