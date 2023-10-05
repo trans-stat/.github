@@ -22,5 +22,5 @@ title: '[adds/updates/removes]: [what] to/from [where]'
 ## Design Spec
 <!-- Add links to any figma designs here -->
 
-## Acceptance Criteria
+## Definition of Done
 <!-- What will determine this item as Done? -->
