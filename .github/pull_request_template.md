@@ -42,7 +42,7 @@ Please provide a summary of the tests affected by this work and any unique strat
 - [ ] I have added tests for my changes.
 - [ ] I have tested my changes.
 - [ ] I have updated the project documentation to reflect my changes.
-- [ ] I have completed the "definition of done" for this PR.
+- [ ] I have completed the "definition of done".
 
 ## Next Steps
 <!---
