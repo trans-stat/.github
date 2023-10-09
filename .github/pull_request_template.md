@@ -38,9 +38,11 @@ Please provide a summary of the tests affected by this work and any unique strat
 ### General
 <!--- Review the list and put an x in the boxes that apply. -->
 
+- [ ] I have linked relevant issues above.
 - [ ] I have added tests for my changes.
 - [ ] I have tested my changes.
 - [ ] I have updated the project documentation to reflect my changes.
+- [ ] I have completed the "definition of done" for this PR.
 
 ## Next Steps
 <!---
