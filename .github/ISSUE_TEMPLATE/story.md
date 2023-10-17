@@ -5,7 +5,7 @@ title: '[adds/updates/removes]: [what] to/from [where]'
 ---
 <!-- Provide a general summary of the issue in the title above -->
 
-```[TaskList]
+```[tasklist]
 ## Tasks
 - [ ] Peer review code - _should be done by another engineer in addition to the normal PR review process_
 - [ ] Product review - _should be done by product manager_
