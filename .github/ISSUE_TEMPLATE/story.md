@@ -1,20 +1,31 @@
 ---
 name: Story
-about: A single work item and is a part of a larger Epic.
-title: '[adds/updates/removes]: [what] to/from [where]'
+about: A single issue contained within a larger Epic
+title: '[adds/updates/removes] [what] to [where]'
 ---
 <!-- Provide a general summary of the issue in the title above -->
 
+## Detailed Description
+<!-- Provide a detailed description of the change or addition you are proposing -->
+
+<!-- Provide all tasks in dependency order to implement this story -->
 ```[tasklist]
-## Tasks
-- [ ] Peer review code - _should be done by another engineer in addition to the normal PR review process_
-- [ ] Product review - _should be done by product manager_
-- [ ] End-to-End Testing - _make sure things work as expected and no unexptected behaviors have been introduced_
+## Front-End Tasks
+- [ ] adds user interface components to web form
+- [ ] adds required field validation to web form
+- [ ] adds optional field to web form
+
+## Middleware / Infrastructure Tasks
+- [ ] adds API to support story action
+- [ ] adds AWS infrastructure requirements
+
+## Back-End Tasks
+- [ ] adds database schema
+  - [ ] create necessary fields and datatypes
+  - [ ] create necessary relationships and constraints
 ```
 <!-- Provide any additional tasks to the list above to break this issue down further -->
 
-## Detailed Description
-<!-- Provide a detailed description of the change or addition you are proposing -->
 
 ## Context
 <!-- Why is this change important? How would you use it? -->
@@ -25,3 +36,11 @@ title: '[adds/updates/removes]: [what] to/from [where]'
 
 ## Definition of Done
 <!-- What will determine this item as Done? -->
+
+```[tasklist]
+## Tasks
+- [ ] Passed the local quality assurance process
+- [ ] Passed the peer code review
+- [ ] Passed the design review process
+- [ ] Passed the product review process
+```
