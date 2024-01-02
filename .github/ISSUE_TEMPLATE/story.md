@@ -26,7 +26,6 @@ title: '[adds/updates/removes] [what] to [where]'
 ```
 <!-- Provide any additional tasks to the list above to break this issue down further -->
 
-
 ## Context
 <!-- Why is this change important? How would you use it? -->
 <!-- How can it benefit other users? -->
@@ -38,7 +37,7 @@ title: '[adds/updates/removes] [what] to [where]'
 <!-- What will determine this item as Done? -->
 
 ```[tasklist]
-## Tasks
+## Definition of Done
 - [ ] Passed the local quality assurance process
 - [ ] Passed the peer code review
 - [ ] Passed the design review process
