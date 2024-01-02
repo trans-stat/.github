@@ -40,11 +40,11 @@ title: '[adds/updates/removes] [what] to [where]'
 <!-- What will determine this item as Done? -->
 
 ```[tasklist]
-## Tasks
+## Definition of Done
 - [ ] Passed the local quality assurance process
 - [ ] Passed the peer code review
 - [ ] Passed the design review process
 - [ ] Passed the product review process
 - [ ] Passed deployment to staging environment
-- [ ] Passed user acceptance testing in staging environment
+- [ ] Passed user acceptance testing to staging environment
 ```
