@@ -5,41 +5,39 @@ title: '[adds/updates/removes] [what] to [where]'
 ---
 <!-- Provide a general summary of the issue in the title above -->
 
-## Detailed Description
-<!-- Provide a detailed description of the change or addition you are proposing -->
+## Brief Description
 
-<!-- Provide all tasks in dependency order to implement this story -->
+## Tasks
+<!-- Provide all tasks in dependency order to implement this story. All tasks should be less than 4 hours in length. Anything longer should be its own story and broken down further. Please take a look at all aspects of the implemented feature and provide enough detail to take this work on. -->
+
+<!-- Some task list examples are provided below to consider. Provide any additional tasks to the list above to break this issue down further -->
+
 ```[tasklist]
 ## Front-End Tasks
-- [ ] adds user interface components to web form
-- [ ] adds required field validation to web form
-- [ ] adds optional field to web form
+- [ ] ?
 
 ## Middleware / Infrastructure Tasks
-- [ ] adds API to support story action
-- [ ] adds AWS infrastructure requirements
+- [ ] ?
 
 ## Back-End Tasks
-- [ ] adds database schema
-  - [ ] create necessary fields and datatypes
-  - [ ] create necessary relationships and constraints
+- [ ] ?
+
+## DevOps Tasks
+- [ ] ?
 ```
-<!-- Provide any additional tasks to the list above to break this issue down further -->
 
 ## Context
-<!-- Why is this change important? How would you use it? -->
-<!-- How can it benefit other users? -->
+<!-- Why is this change important? Consider the impact on the user and how this user is being enabled through this addition or change. How will this benefit the user/s? -->
 
-## Design Spec
-<!-- Add links to any figma designs here -->
+## Detailed Description
+<!-- Provide a detailed description of the change or addition you are proposing -->
 
 ## Definition of Done
 <!-- What will determine this item as Done? -->
 
 ```[tasklist]
 ## Definition of Done
-- [ ] Passed the local quality assurance process
-- [ ] Passed the peer code review
-- [ ] Passed the design review process
-- [ ] Passed the product review process
+- [ ] Passes local quality assurance process
+- [ ] Passes peer code review
+- [ ] Passes feature crew review
 ```
