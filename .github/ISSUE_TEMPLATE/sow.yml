@@ -1,4 +1,17 @@
+---
+name: Statement Of Work
+about: A business request associated with a given milestone. It contains a list of Epics required to deliver.
+title: '[adds/updates/removes][what] to [where]'
+---
 
+## Executive Summary
+<!-- A summary description of the challenge or opportunity -->
+
+## Impact
+<!-- A value statement of impact this project or task would have for the stakeholder/s -->
+
+## Project Details
+<!-- Project description and details of work to be performed -->
 
 ```[tasklist]
 ## Business Requirements
@@ -56,13 +69,13 @@
 
 ## Contact Details
 <!-- Contact information for the stakeholder -->
-Name:
-Email:
-Phone:
-Delivery Date (if applicable):
-Support Ticket Reference (if applicable):
+Name
+Email
+Phone
+Delivery Date (if applicable)
+Support Ticket Reference (if applicable)
 
 ## Resource Links
-- System Requirements Specification (SysRS): 
-- Design: 
-- Engineering:
+- System Requirements Specification (SysRS)
+- Design
+- Engineering
