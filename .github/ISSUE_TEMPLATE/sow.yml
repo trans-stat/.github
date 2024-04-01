@@ -18,20 +18,21 @@ title: '[adds/updates/removes] [what] to [where]'
 - [ ] creates user actions/workflows
 - [ ] creates user stories
 ```
+
 ## Project Lifecycle
 <!-- Provide detailed requirements with links to resources for all activities involved in delivering this request to the stakeholders -->
 <!-- consider what action or workflows are required for the stakeholder to efficiently and quickly achieve their objectives -->
 <!-- consider responsive/adaptive UI, themes/branding, cross-platform / devices -->
 
 ```[tasklist]
-### Discovery Tasks
+## Discovery Tasks
 - [ ] conduct competitive analysis
 - [ ] conduct data analysis
 - [ ] conduct user (subject matter expert) feedback interviews
 ```
 
 ```[tasklist]
-### Definition Tasks
+## Definition Tasks
 - [ ] create brainstorm/storyboard
 - [ ] create user stories
 - [ ] create information architecture
@@ -41,7 +42,7 @@ title: '[adds/updates/removes] [what] to [where]'
 ```
 
 ```[tasklist]
-### Design Tasks
+## Design Tasks
 - [ ] creates lo-fi design
 - [ ] creates prototype in figma
 - [ ] validates lo-fi with feature team
@@ -52,14 +53,14 @@ title: '[adds/updates/removes] [what] to [where]'
 ```
 
 ```[tasklist]
-### Development Tasks
+## Development Tasks
 - [ ] scopes MLE work
 - [ ] create project plan
 - [ ] review with leadership
 ```
 
 ```[tasklist]
-### Delivery Tasks
+## Delivery Tasks
 - [ ] create release email
 - [ ] create newsletter content
 - [ ] create communication plan / schedule
