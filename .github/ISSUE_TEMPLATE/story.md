@@ -15,13 +15,19 @@ title: '[adds/updates/removes] [what] to [where]'
 ```[tasklist]
 ## Front-End Tasks
 - [ ] ?
+```
 
+```[tasklist]
 ## Middleware / Infrastructure Tasks
 - [ ] ?
+```
 
+```[tasklist]
 ## Back-End Tasks
 - [ ] ?
+```
 
+```[tasklist]
 ## DevOps Tasks
 - [ ] ?
 ```
