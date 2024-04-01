@@ -2,6 +2,7 @@
 name: Statement Of Work
 about: A business request associated with a given milestone. It contains a list of Epics required to deliver.
 title: '[adds/updates/removes][what] to [where]'
+assignees: awentzel
 ---
 
 ## Executive Summary
@@ -14,7 +15,7 @@ title: '[adds/updates/removes][what] to [where]'
 <!-- Project description and details of work to be performed -->
 
 ```[tasklist]
-## Business Requirements
+### Business Requirements
 - [ ] conducts user (subject matter expert) interviews
 - [ ] creates user actions/workflows
 - [ ] creates user stories
@@ -26,14 +27,14 @@ title: '[adds/updates/removes][what] to [where]'
 <!-- consider responsive/adaptive UI, themes/branding, cross-platform / devices -->
 
 ```[tasklist]
-## Discovery Tasks
+### Discovery Tasks
 - [ ] conduct competitive analysis
 - [ ] conduct data analysis
 - [ ] conduct user (subject matter expert) feedback interviews
 ```
 
 ```[tasklist]
-## Definition Tasks
+### Definition Tasks
 - [ ] create brainstorm/storyboard
 - [ ] create user stories
 - [ ] create information architecture
@@ -43,7 +44,7 @@ title: '[adds/updates/removes][what] to [where]'
 ```
 
 ```[tasklist]
-## Design Tasks
+### Design Tasks
 - [ ] creates lo-fi design
 - [ ] creates prototype in figma
 - [ ] validates lo-fi with feature team
@@ -54,14 +55,14 @@ title: '[adds/updates/removes][what] to [where]'
 ```
 
 ```[tasklist]
-## Development Tasks
+### Development Tasks
 - [ ] scopes MLE work
 - [ ] create project plan
 - [ ] review with leadership
 ```
 
 ```[tasklist]
-## Delivery Tasks
+### Delivery Tasks
 - [ ] create release email
 - [ ] create newsletter content
 - [ ] create communication plan / schedule
@@ -69,13 +70,13 @@ title: '[adds/updates/removes][what] to [where]'
 
 ## Contact Details
 <!-- Contact information for the stakeholder -->
-Name
-Email
-Phone
-Delivery Date (if applicable)
-Support Ticket Reference (if applicable)
+Name:
+Email:
+Phone:
+Delivery Date (if applicable):
+Support Ticket Reference (if applicable):
 
 ## Resource Links
-- System Requirements Specification (SysRS)
-- Design
-- Engineering
+- System Requirements Specification (SysRS):
+- Design:
+- Engineering:
