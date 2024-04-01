@@ -13,7 +13,7 @@ title: '[adds/updates/removes] [what] to [where]'
 <!-- Project description and details of work to be performed -->
 
 ```[tasklist]
-### Business Requirements
+## Business Requirements
 - [ ] conducts user (subject matter expert) interviews
 - [ ] creates user actions/workflows
 - [ ] creates user stories
